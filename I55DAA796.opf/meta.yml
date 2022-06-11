@@ -1,0 +1,61 @@
+id: I55DAA796
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-11T13:15:24.569363'
+last_modified: '2022-06-11T13:15:24.569384'
+parser: null
+source_metadata:
+  title: Tulku Zangpo Drakpa
+  language: fr
+  description: 'Texts revealed by the 14th-century tertön Zangpo Drakpa (bzang po
+    grags pa):'
+  volume:
+    f20C0:
+      title: 'Le''u Dünma—Chapter 1: The Prayer to the Three Kāya Guru'
+      base_file: f20C0.txt
+      order: 1
+      parent: Le'u Dünma
+    fB2B6:
+      title: 'Le''u Dünma—Chapter 2: The Prayer Requested by King Tri Songdetsen'
+      base_file: fB2B6.txt
+      order: 2
+      parent: Le'u Dünma
+    f1355:
+      title: 'Le''u Dünma—Chapter 3: The Prayer Requested by Khandro Yeshe Tsogyal'
+      base_file: f1355.txt
+      order: 3
+      parent: Le'u Dünma
+    f7645:
+      title: 'Le''u Dünma—Chapter 4: The Prayer Requested by Namkhe Nyingpo'
+      base_file: f7645.txt
+      order: 4
+      parent: Le'u Dünma
+    fF7C7:
+      title: 'Le''u Dünma—Chapter 5: The Prayer Requested by Nanam Dorje Dudjom'
+      base_file: fF7C7.txt
+      order: 5
+      parent: Le'u Dünma
+    fBE45:
+      title: 'Le''u Dünma—Chapter 6: The Prayer Requested by Prince Mutri Tsenpo'
+      base_file: fBE45.txt
+      order: 6
+      parent: Le'u Dünma
+    fD9BA:
+      title: Le'u Dünma—Chapter 7. The Prayer to Guru Rinpoche that Spontaneously
+        Fulfills All Wishes (Sampa Lhundrupma)
+      base_file: fD9BA.txt
+      order: 7
+      parent: Le'u Dünma
+    f1EAA:
+      title: The Means for Accomplishment called the Blazing Wheel
+      base_file: f1EAA.txt
+      order: 8
+      parent: Practices
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
